@@ -1,0 +1,24 @@
+/*
+
+Implemente uma calculadora em C com as seguintes funcionalidades:
+
+1 Somar
+2 Subtrair
+3 Multiplicar
+4 Dividir
+5 Sair
+
+Considere sempre um par de números.
+A calculador deve possuir um menu, no qual o usuário deve escolher as opções de 1-5. O usuário deve poder fazer uma sequência de operações. Por exemplo, somar 1+ 5. Depois escolher multiplicar 3x9 e assim sucessivamente. Até que o usuário escolha a opção 5 e o programa é encerrado.
+
+Observações gerais:
+
+Para cada operação será necessário pedir ao usuário um par de números.
+Sempre deve-se imprimir na tela o resultado da operação.
+Utilize o comando condicional switch de forma obrigatória.
+Utilize comandos de repetição.
+Não é necessário interface gráfica.
+Entrada e saída de dados deverá ser realizada via teclado/console
+Caso queira, pode fazer uso de funções.
+
+*/
