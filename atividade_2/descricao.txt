@@ -1,0 +1,18 @@
+/*
+
+Desenvolva algoritmos que permitam implementar as tarefas descritas nos exercícios a à d. Ao ser informado a altura e o gênero de N pessoas (você pode fixar este N igual a 5), que seja calculado e escrito na tela:
+
+a. A altura média das N pessoas;
+b. A maior altura encontrada;
+c. A altura média das mulheres e a altura média dos homens;
+d. A quantidade de homens.
+
+Depois implemente uma função que altere a altura de uma das pessoas e execute de a à c novamente. A pessoa pode ser qualquer uma que já esteja inserida no vetor. Use passagem de parâmetro por referência (ponteiros).
+
+- Sugiro que você use um vetor de pessoas. Pesquise como se cria vetores em C. Nas notas de aula eu expliquei;
+- O vetor já deve ser preenchido previamente, em tempo de programação. Não solicite via teclado;
+- O uso de estruturas (struct) para representar pessoa é obrigatório;
+- A implementação e o uso de funções para resolver de a à d é obrigatório;
+- O uso de ponteiros é obrigatório.
+
+*/

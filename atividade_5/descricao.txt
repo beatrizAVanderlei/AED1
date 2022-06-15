@@ -1,0 +1,10 @@
+/*
+
+Implemente o algoritmos Merge sort na linguagem de programação C. Você deve ordenar um vetor de nomes de cidades de forma decrescente.
+
+- O algoritmo deve ser estável;
+- Considere cidades com nomes compostos;
+- Não diferencie letras maiúsculas de minúsculas. Ex: São Paulo = são paulo;
+- Deixe o vetor já preenchido (20 posições).
+
+*/

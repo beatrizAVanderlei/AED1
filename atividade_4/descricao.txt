@@ -1,0 +1,15 @@
+/*
+
+Implemente em C uma rotina que recebe como entrada duas listas (l1, l2) simplesmente encadeada e retorne uma lista simplesmente encadeada (l) fruto da concatenação de l1 com l2, mas invertida. Exemplo:
+
+l1 = {1, 2, 5}
+l2 = {0, 9, 8}
+l = {8, 9, 0, 5, 2, 1}
+
+Protótipo: Lista* concatena(Lista* L1, Lista* L2);
+
+-Observe que as listas podem estas vazias (uma ou as duas).
+- O protótipo deve ser seguido.
+-Uso de ponteiros e alocação dinâmica é obrigatório na criação /manipulação das listas.
+
+*/

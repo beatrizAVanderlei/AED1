@@ -1,0 +1,27 @@
+/*
+
+Crie um algoritmo de ordenação que funciona da seguinte maneira:
+
+Ele seleciona o maior elemento do vetor e o coloca na 1ª posição. Depois, seleciona o menor elemento, e o
+coloca na última posição. Seleciona o 2º maior elemento, e coloca na 2ª posição. Seleciona
+o 2º menor elemento e o coloca na penúltima posição. E assim sucessivamente até que o
+vetor esteja ordenado de forma decrescente.
+Exemplo de ordenamento:
+Entrada: 5 10 20 3 1 4 -> Seleciona maior elemento e o coloca na 1ª posição
+20 10 5 3 1 4 -> Seleciona menor elemento e o coloca na última posição
+20 10 5 3 4 1 ...
+e assim sucessivamente.
+
+Após a ordenação, você deve implementar e criar um menu a ser manipulado pelo usuário com as seguintes funções:
+- imprimir na tela os elementos do vetor (parâmetros: vetor e tamanho)
+- remover elemento específico do vetor, substituindo por 0 o valor removido e
+deixando o valor 0 na última posição do vetor (parâmetros: tamanho, vetor, posição a
+ser removida)
+- sair
+
+Restrições:
+- O vetor deve ser criado e preenchido por você (tamanho 10)
+- A ordenação deve ser uma função e deve ser chamada também por você
+- O menu deve ser executado pelo usuário. Ele informa o que quer remover e pode imprimir o vetor quantas vezes desejar.
+
+*/

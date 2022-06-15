@@ -1,0 +1,20 @@
+/*
+
+Implemente duas funções:
+
+1 - Recebe como parâmetro uma string e um caractere e retorne como resultado o número de ocorrências desse caractere na string. Essa função deve obedecer ao protótipo:
+
+int conta_char (char* str, char c);
+
+2 - Recebe como parâmetro uma string e retorne como resultado o número de de vogais nessa string. Essa função deve obedecer ao protótipo:
+
+int conta_vogais (char* str);
+
+Restrições:
+- A entrada deve ser fornecida pelo usuário. Uma única string passará pelas duas funções;
+- Atente para questões de letras maiúsculas / minúsculas;
+- Implemente as funções no mesmo arquivo da função main;
+- Strings com espaço devem ser aceitas;
+- Os protótipos devem ser seguidos.
+
+*/
